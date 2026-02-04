@@ -1,0 +1,13 @@
+Global class distribution: [0, 1, 2, 3]
+Client data sizes: [191, 1602, 3721, 1518, 6001, 112, 4919, 116, 669, 1149]
+
+Client 0 - Size: 191, Class distribution: {0: 145, 1: 26, 2: 17, 3: 3}
+Client 1 - Size: 1602, Class distribution: {0: 1367, 1: 117, 2: 117, 3: 1}
+Client 2 - Size: 3721, Class distribution: {0: 8, 1: 7, 2: 2596, 3: 1110}
+Client 3 - Size: 1518, Class distribution: {0: 1, 1: 0, 2: 1517, 3: 0}
+Client 4 - Size: 6001, Class distribution: {0: 703, 1: 4349, 2: 157, 3: 792}
+Client 5 - Size: 112, Class distribution: {0: 0, 1: 30, 2: 0, 3: 82}
+Client 6 - Size: 4919, Class distribution: {0: 2456, 1: 451, 2: 0, 3: 2012}
+Client 7 - Size: 116, Class distribution: {0: 13, 1: 2, 2: 38, 3: 63}
+Client 8 - Size: 669, Class distribution: {0: 73, 1: 0, 2: 545, 3: 51}
+Client 9 - Size: 1149, Class distribution: {0: 234, 1: 18, 2: 12, 3: 885}

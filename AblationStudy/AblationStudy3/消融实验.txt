@@ -1,0 +1,11 @@
+### 消融实验 ### 
+最佳配置推荐
+数据集 (Dataset): MNIST
+模型组合 (Model): ResNet18 + QCNN
+Non-IID场景 (Scenario): Label Shift ($\alpha=0.3$)
+
+实验设置	  经典层聚合方式   量子层聚合方式	本地训练优化策略
+完整框架	   聚类加权平均	     圆平均	         梯度协同优化
+Ablation-1	  标准FedAvg        圆平均	        梯度协同优化
+Ablation-2	  聚类加权平均      算术平均	     梯度协同优化
+Ablation-3	  聚类加权平均       圆平均	        统一学习率（无梯度平衡）
