@@ -1,0 +1,11 @@
+Round 0	Loss: 2.3858	Accuracy: 8.0400%
+Round 1	Loss: 1.9734	Accuracy: 26.8900%
+Round 2	Loss: 1.1999	Accuracy: 77.9800%
+Round 3	Loss: 1.0621	Accuracy: 84.9100%
+Round 4	Loss: 1.0162	Accuracy: 86.8300%
+Round 5	Loss: 1.0027	Accuracy: 86.8400%
+Round 6	Loss: 0.9927	Accuracy: 87.5100%
+Round 7	Loss: 0.9836	Accuracy: 87.6000%
+Round 8	Loss: 0.9805	Accuracy: 88.0200%
+Round 9	Loss: 0.9725	Accuracy: 88.1200%
+Round 10	Loss: 0.9729	Accuracy: 87.8300%

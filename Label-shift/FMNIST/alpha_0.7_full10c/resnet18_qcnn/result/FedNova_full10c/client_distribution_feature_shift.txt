@@ -1,0 +1,13 @@
+--- Feature Shift Non-IID Setup (Fashion-MNIST) ---
+Global class distribution: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+Client 0 - Original - Size: 6000, Dist: [597, 608, 611, 587, 627, 621, 619, 550, 590, 590]
+Client 1 - Brightness - Size: 6000, Dist: [605, 611, 594, 597, 575, 590, 599, 609, 607, 613]
+Client 2 - Contrast - Size: 6000, Dist: [567, 616, 596, 605, 613, 572, 593, 600, 628, 610]
+Client 3 - Rotation - Size: 6000, Dist: [598, 581, 629, 591, 602, 597, 601, 613, 581, 607]
+Client 4 - Translate - Size: 6000, Dist: [599, 607, 604, 638, 616, 591, 594, 583, 555, 613]
+Client 5 - Shear - Size: 6000, Dist: [573, 576, 588, 612, 600, 602, 596, 637, 620, 596]
+Client 6 - Blur - Size: 6000, Dist: [624, 557, 589, 611, 551, 619, 577, 614, 650, 608]
+Client 7 - Sharpness - Size: 6000, Dist: [636, 636, 604, 576, 625, 581, 601, 592, 583, 566]
+Client 8 - Posterize - Size: 6000, Dist: [615, 600, 594, 583, 594, 620, 609, 616, 586, 583]
+Client 9 - Invert - Size: 6000, Dist: [586, 608, 591, 600, 597, 607, 611, 586, 600, 614]
