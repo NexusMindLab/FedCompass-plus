@@ -1,0 +1,6 @@
+# Local tool data
+.waylog/
+
+# Python cache
+__pycache__/
+*.pyc
